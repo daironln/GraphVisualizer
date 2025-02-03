@@ -1,4 +1,4 @@
-﻿namespace GraphVisualizerForm;
+﻿namespace GraphVisualizer;
 
 partial class MainForm
 {

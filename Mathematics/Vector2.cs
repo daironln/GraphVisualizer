@@ -1,4 +1,4 @@
-﻿namespace GraphVisualizerForm.Mathematics;
+﻿namespace GraphVisualizer.Mathematics;
 
 public class Vector2
 {

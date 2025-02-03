@@ -2,9 +2,9 @@ using System;
 using System.Drawing;
 using System.Windows.Forms;
 using System.Drawing.Drawing2D;
-using GraphVisualizerForm.Mathematics;
+using GraphVisualizer.Mathematics;
 
-namespace GraphVisualizerForm;
+namespace GraphVisualizer;
 public partial class MainForm : Form
 {
     private int[,] matrizAdyacencia = new int[,] 
